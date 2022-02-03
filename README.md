@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ulasayyilmaz
-- 👀 I’m interested in CS because I love how it is a tool for solving any prolems of the world. 
+- 👀 I’m interested in CS because I love that it is a tool for solving prolems. 
 - 🌱 I’m currently learning Data structures and Advanced programming in Java.
-- 📫 How to reach me: ulasayyilmaz@gmail.com
+- 📫 How to reach me: iuaa2020@mymail.pomona.edu
 
 <!---
 ulasayyilmaz/ulasayyilmaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
