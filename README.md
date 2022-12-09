@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ulasayyilmaz
 - 👀 I’m interested in CS because I love that it is a tool for solving prolems. 
-- 🌱 I’m currently learning Data structures and Advanced programming in Java.
+- 🌱 The coursework I completed includes Algorithms, Managing Complex Systems, Data Structures, Discrete Math, Linear Algebra and Calculus 3.
 - 📫 How to reach me: iuaa2020@mymail.pomona.edu
 
 <!---
