@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ulasayyilmaz
-- 👀 I’m interested in CS because I love that it is a tool for solving prolems. 
-- 🌱 The coursework I completed includes Algorithms, Managing Complex Systems, Data Structures, Discrete Math, Linear Algebra and Calculus 3.
+- 👀 I’m interested in the intersection of Computer Science and Neuroscience. 
+- 🌱 The coursework I completed includes Artificial & Biological Vision, Mobile Robotics, Managing Complex Systems, Machine Learning, Computational Statistics, Algorithms, Electronics, Affective Neuroscience.
 - 📫 How to reach me: iuaa2020@mymail.pomona.edu
 
 <!---
